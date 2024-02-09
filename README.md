@@ -10,6 +10,11 @@ A logo generator created using inquirer and node js. Utilizes jest to test code.
 https://github.com/AlexJ1890/Logo-Generator-10/assets/150198347/a00a908c-87cd-4441-a3f8-40b1ff896ccd
 
 
+
+https://github.com/AlexJ1890/Logo-Generator-10/assets/150198347/1b3eefae-355d-4a28-b267-d2e85cde1cbe
+
+
+
 ![CircleLogo](./Examples/logo-circle.svg)
 ![TriangleLogo](./Examples/logo-triangle.svg)
 ![SquareLogo](./Examples/logo-square.svg)
